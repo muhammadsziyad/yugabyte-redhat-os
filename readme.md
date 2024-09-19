@@ -46,7 +46,7 @@ YugabyteDB is an open-source, distributed SQL database designed for high perform
     ```bash
     cd yugabyte-2.19.1.0
     ``` 
-    
+
 
 ### 3. Start YugabyteDB
 
@@ -57,7 +57,10 @@ YugabyteDB is an open-source, distributed SQL database designed for high perform
     ```bash
     ./bin/yugabyted start
     ``` 
+
     
+<img width="1216" alt="Screen Shot 2024-09-19 at 11 55 33 AM" src="https://github.com/user-attachments/assets/1c65199e-f38b-408b-a81d-fd8f13c034b1">
+<img width="1216" alt="Screen Shot 2024-09-19 at 11 57 16 AM" src="https://github.com/user-attachments/assets/cd8e691a-7707-4e02-99bc-909ddef8eff1">
 
 ## Step-by-Step Configuration
 
